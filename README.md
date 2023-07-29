@@ -100,3 +100,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## 🚀 Project Output
 
 ![Homepage](Screenshot/output.png)
+![Result](Screenshot/out.png)
